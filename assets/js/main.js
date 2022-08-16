@@ -34,7 +34,7 @@
 
 
 var typed = new Typed(".typing", {
-	strings: ["Developer", "Team Leader", "Sustainer", "Fitness Enthusiast", "Reader","Father","Scrum Master"],
+	strings: ["Developer", "Team Leader", "Sustainer", "Fitness Enthusiast", "Reader", "Scrum Master"],
 	typeSpeed: 100,
 	backSpeed: 60,
 	loop: true
