@@ -4,6 +4,8 @@
 
 🌱 I’m currently learning Azure and AWS cloud.
 
-💞️ I’m looking to collaborate on projects which are based on dotnet core and angular.
+💞️ I’m looking to collaborate on projects which are based on dotnet core, angular and cloud (Azure/PCF/AWS).
 
 📫 How to reach me? you are here so you have almost reached me, I can be found on [LinkedIn](https://www.linkedin.com/in/purandaran-vudhayagiri/).
+
+
